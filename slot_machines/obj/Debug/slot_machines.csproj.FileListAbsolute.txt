@@ -1,0 +1,10 @@
+C:\Users\SEMA\source\repos\slot_machines\slot_machines\bin\Debug\slot_machines.exe.config
+C:\Users\SEMA\source\repos\slot_machines\slot_machines\bin\Debug\slot_machines.exe
+C:\Users\SEMA\source\repos\slot_machines\slot_machines\bin\Debug\slot_machines.pdb
+C:\Users\SEMA\source\repos\slot_machines\slot_machines\obj\Debug\slot_machines.csprojAssemblyReference.cache
+C:\Users\SEMA\source\repos\slot_machines\slot_machines\obj\Debug\slot_machines.Form1.resources
+C:\Users\SEMA\source\repos\slot_machines\slot_machines\obj\Debug\slot_machines.Properties.Resources.resources
+C:\Users\SEMA\source\repos\slot_machines\slot_machines\obj\Debug\slot_machines.csproj.GenerateResource.cache
+C:\Users\SEMA\source\repos\slot_machines\slot_machines\obj\Debug\slot_machines.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\source\repos\slot_machines\slot_machines\obj\Debug\slot_machines.exe
+C:\Users\SEMA\source\repos\slot_machines\slot_machines\obj\Debug\slot_machines.pdb
